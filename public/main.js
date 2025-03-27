@@ -18,7 +18,7 @@ document.getElementById('downloadLink').addEventListener('click', function(event
     if (!user) {
       window.location.href = "login.html";
     } else{
-      window.location.href = 'https://drive.google.com/drive/folders/1I5YzEvdRcuwXKc9pj5IEmIASlCsOBzZ2?usp=sharing';
+      window.location.href = '';
     }
 });
 
