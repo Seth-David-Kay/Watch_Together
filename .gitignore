@@ -2,6 +2,8 @@
 public/authFirebaseConfig.js
 public/firebaseConfig.js
 
+*.png
+
 # Logs
 logs
 *.log
