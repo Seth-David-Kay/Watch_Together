@@ -1,3 +1,5 @@
+// Rewrite in react
+
 // TODO: make the reset and set and sync automatic by having a boolean
 // in the database that is set to true when the reset or sync button is clicked
 

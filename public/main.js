@@ -18,7 +18,7 @@ document.getElementById('downloadLink').addEventListener('click', function(event
     if (!user) {
       window.location.href = "login.html";
     } else{
-      window.location.href = '';
+      window.location.href = 'google.com';
     }
 });
 
