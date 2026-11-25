@@ -21,10 +21,6 @@ Syncs videos between two parties over the internet - a custom implementation.
 
 Using a firebase static deployment and a firebase realtime database efficiently syncs video playback with an intuitive ui across everyone using the website. Also implements a login feature.
 
-<p align="center">
-  <img src="docs/screenshot.png" alt="Video Sync screenshot" width="800">
-</p>
-
 ## Installation
 
 ### Steps
